@@ -1,0 +1,17 @@
+{
+    "nombre": "Francisco Javier",
+    "apellido": "Pichinte López",
+    "email": "95fjpl95@gmail.com",
+    "token": "34ead882-d29e-4860-bdcf-cc5f3b8962ec",
+    "fecha_utc": "2026-11-15T05:31:20.054170+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "7.0.14-linuxkit",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "7b2315159fab",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "14bc8a51e92787195ef1a5db4278ab75c2be80e8528265e8bca9645ea1d92b3c"
+}
